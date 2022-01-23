@@ -1,5 +1,6 @@
 Hello, I'm Dan and as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website][website].
 
+I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with.
 ---
 Inactive Youtube:
 <!-- YOUTUBE:START -->
