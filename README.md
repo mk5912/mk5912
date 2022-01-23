@@ -1,9 +1,9 @@
 # Hello, I'm Dan 
 ### And as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website][website].
 
-I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with.
+# I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with.
 
-My primary coding language is Batch script but I also use plent of C code with microprocessors.
+## My primary coding language is Batch script but I also use plent of C code with microprocessors.
 ---
 Inactive [youtube][Youtube]:
 <!-- YOUTUBE:START -->
