@@ -1,10 +1,11 @@
 Inactive Youtube:
-<!-- YOUTUBE:START --!>
-<!-- YOUTUBE:END --!>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 ---
+
 Blog:
-<!-- BLOG:START --!>
-<!-- BLOG:END --!>
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark)
