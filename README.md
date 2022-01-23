@@ -1,10 +1,10 @@
 # Hello, I'm Dan 
-## And as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website][website].
+### And as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website][website].
 
 I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with.
 
 ---
-Inactive Youtube:
+Inactive [youtube][Youtube]:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 ---
@@ -19,3 +19,4 @@ Inactive Youtube:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk5912&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.myeasyserver.xyz/
+[youtube]: https://www.youtube.com/channel_id=UC5L0VuTn4wzNSxUn62wm8SQ
