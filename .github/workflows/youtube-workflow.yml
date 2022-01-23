@@ -16,4 +16,4 @@ jobs:
         with:
             comment_tag_name: YOUTUBE
             max_post_count: 3
-            feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UC5L0VuTn4wzNSxUn62wm8SQ
+            feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCt04NKIHCuVgYeE8-V6K9ww
