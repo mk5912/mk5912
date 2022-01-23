@@ -3,6 +3,7 @@
 
 I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with.
 
+My primary coding language is Batch script but I also use plent of C code with microprocessors.
 ---
 Inactive [youtube][Youtube]:
 <!-- YOUTUBE:START -->
