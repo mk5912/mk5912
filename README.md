@@ -20,5 +20,5 @@ Inactive [youtube][Youtube]:
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk5912&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://www.myeasyserver.xyz/
-[youtube]: https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww
+![website]: (https://www.myeasyserver.xyz/)
+![youtube]: (https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww)
