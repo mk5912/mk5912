@@ -1,5 +1,5 @@
 # Hello, I'm Dan 
-### And as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website][website].
+### And as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website][website] for initiating and running a [spigot][Spigot] Minecraft server, I will also be sharing my codes for a [spigot][Spigot] plugin called [skript][Skript].
 
 ### I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with. My primary coding language is Batch script but I also use plent of C code with microprocessors.
 ---
@@ -22,3 +22,5 @@ Inactive [youtube][Youtube]:
 
 [website]: (https://www.myeasyserver.xyz/)
 [youtube]: (https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww)
+[spigot]: (https://www.spigotmc.org/)
+[skript]: (https://www.skuinty.com/downloads)
