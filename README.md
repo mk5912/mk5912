@@ -1,9 +1,9 @@
 # Hello, I'm Dan 
-### And as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website](website) for initiating and running a [Spigot](spigot) Minecraft server, I will also be sharing my codes for a [Spigot](spigot) plugin called [Skript](skript).
+### And as you can probably tell I'm new to the community though I have been sharing a Windows Batch script on my [website][website] for initiating and running a [Spigot][spigot] Minecraft server, I will also be sharing my codes for a [Spigot][spigot] plugin called [Skript][skript].
 
 ### I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with. My primary coding language is Batch script but I also use plent of C code with microprocessors.
 ---
-Inactive [Youtube](youtube):
+Inactive [Youtube][youtube]:
 <!-- YOUTUBE:START -->
 - [Phasmophobia](https://www.youtube.com/watch?v=50y1qUDf7K0)
 - [GTA V](https://www.youtube.com/watch?v=RiXR2d591XA)
