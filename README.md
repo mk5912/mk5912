@@ -22,6 +22,6 @@ Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
 <!-- BLOG:END -->
 ---
 <!--- -->
-![mk5912's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark)    ![mk5912's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=mk5912&show_icons=true&theme=dark)
+![mk5912's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark&include_all_commits=true&count_private_commits=true)    ![mk5912's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mk5912&show_icons=true&theme=dark)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk5912&show_icons=true&theme=dark)
