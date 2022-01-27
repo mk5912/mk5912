@@ -15,7 +15,7 @@ Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
 <!-- BLOG:START -->
 <!-- BLOG:END -->
 ## Pinned Repos:
-### [SkriptCodes](https://github.com/mk5912/SkriptCodes) [SpigotServerCodes](https://github.com/mk5912/SpigotServerCodes)
+### [SkriptCodes](https://github.com/mk5912/SkriptCodes)        [SpigotServerCodes](https://github.com/mk5912/SpigotServerCodes)
 ### [3-Phase_Motor_Condition_Monitoring.X](https://github.com/mk5912/3-Phase_Motor_Condition_Monitoring.X)
 ---
 <!--- -->
