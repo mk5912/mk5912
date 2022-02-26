@@ -12,7 +12,7 @@ I am going to be adding the scripts to a repository here as well, but for the ti
 ### [Blog Posts](htps://www.myeasyserver.xyz/blog):
 <!-- Blog: -->
 <!-- BLOG:START -->
-- [Blog Tracking](https://www.myeasyserver.xyz/blog/blog-tracking)
+- [Blog Tracking.](https://www.myeasyserver.xyz/blog/blog-tracking)
 - [Started working on a new file.](https://www.myeasyserver.xyz/blog/new-file)
 - [Just a blog post!](https://www.myeasyserver.xyz/blog/newgithub)
 <!-- BLOG:END -->
