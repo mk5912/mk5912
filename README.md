@@ -4,13 +4,12 @@ And as you can probably tell I'm new to the community, though I have been sharin
 
 I am going to be adding the scripts to a repository here as well, but for the time being this is what we have to work with. My primary coding language is Batch script but I also use plenty of C code for microprocessors and Skript code for the server plugin mention above.
 
----
-## Pinned Repos:
-### 1. [SkriptCodes](https://github.com/mk5912/SkriptCodes)
-### 2. [SpigotServerCodes](https://github.com/mk5912/SpigotServerCodes)
-### 3. [3-Phase_Motor_Condition_Monitoring.X](https://github.com/mk5912/3-Phase_Motor_Condition_Monitoring.X)
----
-Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
+### Pinned Repos:
+- [SkriptCodes](https://github.com/mk5912/SkriptCodes)
+- [SpigotServerCodes](https://github.com/mk5912/SpigotServerCodes)
+- [3-Phase_Motor_Condition_Monitoring.X](https://github.com/mk5912/3-Phase_Motor_Condition_Monitoring.X)
+
+### Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
 <!-- YOUTUBE:START -->
 - [Phasmophobia](https://www.youtube.com/watch?v=50y1qUDf7K0)
 - [GTA V](https://www.youtube.com/watch?v=RiXR2d591XA)
@@ -21,7 +20,12 @@ Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
 <!-- BLOG:START -->
 <!-- BLOG:END -->
 ---
-<!--- -->
-![mk5912's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark&include_all_commits=true&count_private_commits=true)    ![mk5912's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mk5912&show_icons=true&theme=dark)
----
+![mk5912's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark&include_all_commits=true&count_private_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk5912&show_icons=true&theme=dark)
+---
+Total recorded time coding:
+
+[![wakatime](https://wakatime.com/badge/user/2c230bc3-d896-4e60-91a0-a1e608bee0b2.svg)](https://wakatime.com/@mk5912)
+
+<!-- ![mk5912's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2c230bc3-d896-4e60-91a0-a1e608bee0b2&show_icons=true&theme=dark) -->
