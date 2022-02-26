@@ -16,4 +16,4 @@ jobs:
         with:
             comment_tag_name: BLOG
             max_post_count: 5
-            feed_list: https://www.myeasyserver.xyz/blog
+            feed_list: https://www.myeasyserver.xyz/blog?format=rss
