@@ -9,18 +9,19 @@ I am going to be adding the scripts to a repository here as well, but for the ti
 - [SpigotServerCodes](https://github.com/mk5912/SpigotServerCodes)
 - [3-Phase_Motor_Condition_Monitoring.X](https://github.com/mk5912/3-Phase_Motor_Condition_Monitoring.X)
 
+### [Blog Posts](htps://www.myeasyserver.xyz/blog):
+<!-- Blog: -->
+<!-- BLOG:START -->
+- [Started working on a new file.](https://www.myeasyserver.xyz/blog/new-file)
+- [Just a blog post!](https://github.com/mk5912)
+<!-- BLOG:END -->
+
 ### Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
 <!-- YOUTUBE:START -->
 - [Phasmophobia](https://www.youtube.com/watch?v=50y1qUDf7K0)
 - [GTA V](https://www.youtube.com/watch?v=RiXR2d591XA)
 - [Blacklight Retribution Livestream](https://www.youtube.com/watch?v=mIqi1Ih45rc)
 <!-- YOUTUBE:END -->
-
-<!-- Blog: -->
-<!-- BLOG:START -->
-- [Started working on a new file.](https://www.myeasyserver.xyz/blog/new-file)
-- [Just a blog post!](https://github.com/mk5912)
-<!-- BLOG:END -->
 ---
 ![mk5912's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark&include_all_commits=true&count_private_commits=true)
 
