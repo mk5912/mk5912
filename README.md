@@ -13,7 +13,7 @@ I am going to be adding the scripts to a repository here as well, but for the ti
 <!-- Blog: -->
 <!-- BLOG:START -->
 - [Started working on a new file.](https://www.myeasyserver.xyz/blog/new-file)
-- [Just a blog post!](https://github.com/mk5912)
+- [Just a blog post!](https://www.myeasyserver.xyz/blog/newgithub)
 <!-- BLOG:END -->
 
 ### Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
