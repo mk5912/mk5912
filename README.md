@@ -18,6 +18,8 @@ I am going to be adding the scripts to a repository here as well, but for the ti
 
 <!-- Blog: -->
 <!-- BLOG:START -->
+- [Started working on a new file.](https://www.myeasyserver.xyz/blog/new-file)
+- [Just a blog post!](https://github.com/mk5912)
 <!-- BLOG:END -->
 ---
 ![mk5912's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark&include_all_commits=true&count_private_commits=true)
