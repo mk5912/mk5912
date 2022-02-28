@@ -12,9 +12,10 @@ I am going to be adding the scripts to a repository here as well, but for the ti
 ### [Blog Posts](htps://www.myeasyserver.xyz/blog):
 <!-- Blog: -->
 <!-- BLOG:START -->
+- [Putting on hold!](https://www.myeasyserver.xyz/blog/putting-on-hold)
 - [Blog Tracking.](https://www.myeasyserver.xyz/blog/blog-tracking)
 - [Started working on a new file.](https://www.myeasyserver.xyz/blog/new-file)
-- [Just a blog post!](https://www.myeasyserver.xyz/blog/newgithub)
+- [GitHub now set up!](https://www.myeasyserver.xyz/blog/github-now-setup)
 <!-- BLOG:END -->
 
 ### Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
