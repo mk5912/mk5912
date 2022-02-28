@@ -20,6 +20,9 @@ My primary coding language is Batch script but I also use plenty of C code for m
 
 ### Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
 <!-- YOUTUBE:START -->
+- [Phasmophobia](https://www.youtube.com/watch?v=50y1qUDf7K0)
+- [GTA V](https://www.youtube.com/watch?v=RiXR2d591XA)
+- [Blacklight Retribution Livestream](https://www.youtube.com/watch?v=mIqi1Ih45rc)
 <!-- YOUTUBE:END -->
 ---
 ![mk5912's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk5912&show_icons=true&theme=dark&include_all_commits=true&count_private_commits=true)
