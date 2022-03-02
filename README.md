@@ -12,6 +12,7 @@ My primary coding language is Batch script but I also use plenty of C code for m
 ### [Blog Posts](htps://www.myeasyserver.xyz/blog):
 <!-- Blog: -->
 <!-- BLOG:START -->
+- [Experimental Update!](https://www.myeasyserver.xyz/blog/experimental-update)
 - [Putting on hold!](https://www.myeasyserver.xyz/blog/putting-on-hold)
 - [Blog Tracking.](https://www.myeasyserver.xyz/blog/blog-tracking)
 - [Started working on a new file.](https://www.myeasyserver.xyz/blog/new-file)
