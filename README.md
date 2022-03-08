@@ -11,6 +11,7 @@ My primary coding language is Batch script but I also use plenty of C code for m
 
 ### [Blog](https://www.myeasyserver.xyz/blog2) Posts
 <!-- BLOG:START -->
+- [Wedding gifts.](https://www.myeasyserver.xyz/blog2/wedding-gifts)
 - [Started a Personal Blog.](https://www.myeasyserver.xyz/blog2/started-a-personal-blog)
 <!-- BLOG:END -->
 
