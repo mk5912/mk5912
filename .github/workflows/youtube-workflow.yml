@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in Youtube posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
             comment_tag_name: YOUTUBE
