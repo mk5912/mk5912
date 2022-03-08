@@ -4,13 +4,12 @@ And as you can probably tell I'm new to the community, though I have been sharin
 
 My primary coding language is Batch script but I also use plenty of C code for microprocessors and Skript code for the server plugin mention above. I have also started working on a C++ code for the server file so as to allow Windows and other security providers to be able to read the code and therefore not give a security warning on the first run.
 
-### Pinned Repos:
+### Pinned [Repos](https://github.com/mk5912?tab=repositories):
 - [SkriptCodes](https://github.com/mk5912/SkriptCodes)
 - [SpigotServerCodes](https://github.com/mk5912/SpigotServerCodes)
 - [3-Phase_Motor_Condition_Monitoring.X](https://github.com/mk5912/3-Phase_Motor_Condition_Monitoring.X)
 
-### [Blog Posts](htps://www.myeasyserver.xyz/blog):
-<!-- Blog: -->
+### [Blog](https://www.myeasyserver.xyz/blog2) Posts
 <!-- BLOG:START -->
 - [Started a Personal Blog.](https://www.myeasyserver.xyz/blog2/started-a-personal-blog)
 <!-- BLOG:END -->
