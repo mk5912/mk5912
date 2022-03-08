@@ -9,7 +9,7 @@ My primary coding language is Batch script but I also use plenty of C code for m
 - [SpigotServerCodes](https://github.com/mk5912/SpigotServerCodes)
 - [3-Phase_Motor_Condition_Monitoring.X](https://github.com/mk5912/3-Phase_Motor_Condition_Monitoring.X)
 
-### [Blog](https://www.myeasyserver.xyz/blog2) Posts
+### Personal [Blog](https://www.myeasyserver.xyz/blog2):
 <!-- BLOG:START -->
 - [Wedding gifts.](https://www.myeasyserver.xyz/blog2/wedding-gifts)
 - [Started a Personal Blog.](https://www.myeasyserver.xyz/blog2/started-a-personal-blog)
