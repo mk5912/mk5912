@@ -11,6 +11,7 @@ My primary coding language is Batch script but I also use plenty of C code for m
 
 ### Personal [Blog](https://www.myeasyserver.xyz/blog2):
 <!-- BLOG:START -->
+- [Dissertation is OVER!](https://www.myeasyserver.xyz/blog2/dissertation-is-over)
 - [Project Progress.](https://www.myeasyserver.xyz/blog2/project-progress)
 - [Changed MCU.](https://www.myeasyserver.xyz/blog2/Changed_MCU)
 - [Wedding gifts.](https://www.myeasyserver.xyz/blog2/wedding-gifts)
