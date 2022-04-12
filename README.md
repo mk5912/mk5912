@@ -11,11 +11,11 @@ My primary coding language is Batch script but I also use plenty of C code for m
 
 ### Personal [Blog](https://www.myeasyserver.xyz/blog2):
 <!-- BLOG:START -->
+- [Nearly There.](https://www.myeasyserver.xyz/blog2/nearly-there)
 - [Dissertation is OVER!](https://www.myeasyserver.xyz/blog2/dissertation-is-over)
 - [Project Progress.](https://www.myeasyserver.xyz/blog2/project-progress)
 - [Changed MCU.](https://www.myeasyserver.xyz/blog2/Changed_MCU)
 - [Wedding gifts.](https://www.myeasyserver.xyz/blog2/wedding-gifts)
-- [Started a Personal Blog.](https://www.myeasyserver.xyz/blog2/started-a-personal-blog)
 <!-- BLOG:END -->
 
 ### Inactive [Youtube](https://www.youtube.com/channel/UCt04NKIHCuVgYeE8-V6K9ww):
